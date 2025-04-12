@@ -32,7 +32,10 @@ Then, instead of doing:
 ```bash
 pacstrap -K /mnt base linux linux-firmware
 ```
+
 Run:
 
+```bash
 chmod +x basestrap.sh
 ./basestrap.sh
+```
