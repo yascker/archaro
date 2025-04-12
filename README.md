@@ -39,3 +39,29 @@ Run:
 chmod +x basestrap.sh
 ./basestrap.sh
 ```
+
+## 💡 Why Archaro?
+
+- Manjaro doesn’t offer a "netinstall" or "barebones" installer like Arch.
+
+- Arch gives you freedom but can break with updates.
+
+- Archaro gives you the best of both: a base system you fully control, with stable, delayed updates from Manjaro.
+
+
+## 🛠️ Notes
+
+- Mirrors used: USA region (you can edit the mirrorlist to match your country).
+
+- No desktop environment or extra packages are installed — it’s up to you from here.
+
+- This is ideal for advanced users who want a hybrid between Arch and Manjaro philosophies.
+
+
+## 📫 Contributions
+
+Suggestions and pull requests are welcome. This tool was created to solve a personal need, but might be useful to others who want the same mix of flexibility and stability.
+
+
+## 🔖 Tags
+archlinux manjaro minimal install custom installer bash script linux rolling release stable arch
